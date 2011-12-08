@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1005]C:\Users\Kellie\Documents\Visual Studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\YaToDo.Tests.dll</TopNode>
+  <SelectedNode>[0-1000]YaToDo.Tests.Controllers.ToDoControllerTest</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1005]C:\Users\Kellie\Documents\Visual Studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\YaToDo.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1006]YaToDo" Expanded="true" />
+    <Node UniqueName="[0-1007]YaToDo.Tests" Expanded="true" />
+    <Node UniqueName="[0-1008]YaToDo.Tests.Controllers" Expanded="true" />
+    <Node UniqueName="[0-1000]YaToDo.Tests.Controllers.ToDoControllerTest" Expanded="true" />
+  </Nodes>
+</VisualState>

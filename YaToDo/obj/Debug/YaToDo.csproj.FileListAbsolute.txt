@@ -1,0 +1,13 @@
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo\bin\YaToDo.dll
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo\bin\YaToDo.pdb
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo\bin\EntityFramework.dll
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo\bin\EntityFramework.xml
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo\obj\Debug\YaToDo.dll
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo\obj\Debug\YaToDo.pdb
+C:\Users\Kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo\bin\mysql.data.dll
+C:\Users\Kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo\bin\Ninject.dll
+C:\Users\Kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo\bin\Ninject.pdb
+C:\Users\Kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo\bin\Ninject.xml
+C:\Users\Kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo\bin\Glimpse.Core.dll
+C:\Users\Kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo\bin\Glimpse.Mvc3.dll

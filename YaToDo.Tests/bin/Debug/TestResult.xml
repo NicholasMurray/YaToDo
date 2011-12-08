@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Kellie\Documents\Visual Studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\YaToDo.Tests.dll" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-12-04" time="13:21:48">
+  <environment nunit-version="2.5.9.10348" clr-version="2.0.50727.5448" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0" machine-name="KELLIE-PC" user="Kellie" user-domain="Kellie-PC" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Kellie\Documents\Visual Studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\YaToDo.Tests.dll" executed="True" result="Success" success="True" time="2.947" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="YaToDo" executed="True" result="Success" success="True" time="2.924" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="2.920" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Controllers" executed="True" result="Success" success="True" time="2.913" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="ToDoControllerTest" executed="True" result="Success" success="True" time="2.910" asserts="0">
+                    <results>
+                      <test-case name="YaToDo.Tests.Controllers.ToDoControllerTest.Index_Message_Should_Be_Correct" executed="True" result="Success" success="True" time="1.590" asserts="1" />
+                      <test-case name="YaToDo.Tests.Controllers.ToDoControllerTest.Index_Should_Return_A_View" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+                      <test-case name="YaToDo.Tests.Controllers.ToDoControllerTest.Index_Should_Return_Four_ToDoLists" executed="True" result="Success" success="True" time="0.100" asserts="1" />
+                      <test-case name="YaToDo.Tests.Controllers.ToDoControllerTest.Search_Should_Return_ToDoList_With_Title_Like_Search_Term" executed="True" result="Success" success="True" time="0.058" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

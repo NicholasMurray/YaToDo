@@ -1,0 +1,30 @@
+﻿@model dynamic
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>@ViewBag.Message</h2>
+
+
+@using (Html.BeginForm("Save", "Update", FormMethod.Post, new { @ID = "ToDoUpdate" }))
+{
+    foreach (var item in Model)
+    {
+        <label class="label_check" for="checkbox-@item.Id">
+            <input name="checkbox-@item.Id" id="checkbox-@item.Id" value="1" type="checkbox" 
+            @(
+                item.Checked == 1 ? "checked" : ""
+            ) 
+            />
+            @item.Title
+        </label>
+    }
+    
+}
+
+
+<br />
+<br />
+
+

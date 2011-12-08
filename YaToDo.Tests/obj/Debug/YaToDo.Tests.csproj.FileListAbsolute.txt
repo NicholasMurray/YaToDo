@@ -1,0 +1,17 @@
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\YaToDo.Tests.dll
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\YaToDo.Tests.pdb
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\Moq.dll
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\nunit.framework.dll
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\nunit.mocks.dll
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\pnunit.framework.dll
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\YaToDo.dll
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\YaToDo.pdb
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\Moq.pdb
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\Moq.xml
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\nunit.framework.xml
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo.Tests\obj\Debug\YaToDo.Tests.dll
+c:\users\kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo.Tests\obj\Debug\YaToDo.Tests.pdb
+C:\Users\Kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\Ninject.dll
+C:\Users\Kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\Ninject.pdb
+C:\Users\Kellie\documents\visual studio 2010\Projects\YaToDo\YaToDo.Tests\bin\Debug\Ninject.xml

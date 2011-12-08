@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YaToDo", "YaToDo\YaToDo.csproj", "{E291F071-6785-4741-A18C-561C895D58B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YaToDo.Tests", "YaToDo.Tests\YaToDo.Tests.csproj", "{3F547125-7E9E-4966-96EF-329827416A7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0EEBD6D2-8421-44D4-A67F-730A048F026D}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+		YaToDo.vsmdi = YaToDo.vsmdi
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = YaToDo.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E291F071-6785-4741-A18C-561C895D58B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E291F071-6785-4741-A18C-561C895D58B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E291F071-6785-4741-A18C-561C895D58B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E291F071-6785-4741-A18C-561C895D58B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F547125-7E9E-4966-96EF-329827416A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F547125-7E9E-4966-96EF-329827416A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F547125-7E9E-4966-96EF-329827416A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F547125-7E9E-4966-96EF-329827416A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
